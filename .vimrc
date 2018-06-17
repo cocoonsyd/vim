@@ -1,6 +1,7 @@
 set guifont=Monospace\ 11
 colorscheme wombat256syd
 filetype plugin indent on
+set encoding=utf-8
 set autoindent
 set cursorline
 set expandtab
